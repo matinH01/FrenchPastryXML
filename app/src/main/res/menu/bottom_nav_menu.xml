@@ -1,4 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/profile"
+        android:title=""
+
+        />
+
+    <item
+        android:id="@+id/pastry"
+        android:icon="@drawable/pastry"
+        android:title="" />
+
+
+    <item
+        android:id="@+id/cake"
+        android:icon="@drawable/cake"
+        android:title="" />
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/main"
+        android:title="" />
 
 </menu>
