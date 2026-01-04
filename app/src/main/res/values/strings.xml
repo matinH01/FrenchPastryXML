@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">FrenchPastryXML</string>
+    <string name="shop_fab">shop_fab</string>
+    <string name="pastry">pastry</string>
+    <string name="profile">profile</string>
+    <string name="cake">cake</string>
+    <string name="main">main</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="banner_desc">banner desc</string>
 </resources>
